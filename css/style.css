@@ -742,6 +742,79 @@ button.btn1:hover i.fa.fa-paper-plane-o {
     letter-spacing: 1px;
     margin: 1em 0 0;
 }
+/* chatbot */
+/* Style for bot symbol */
+.bot-symbol {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+/* Style for chatbot pop-up */
+.chatbot-popup {
+  display: none;
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  width: 300px;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 9999;
+}
+
+/* Style for chatbot header */
+.chatbot-header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+/* Style for close button */
+.close-btn {
+  float: right;
+  cursor: pointer;
+}
+
+/* Style for chatbot content */
+.chatbot-content {
+  padding: 10px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+/* Style for chatbot input */
+.chatbot-input {
+  padding: 10px;
+  background-color: #fff;
+}
+
+.chatbot-input input {
+  width: 70%;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.chatbot-input button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+/*  end chatbot */
 
 .cpy-footer {
     padding: 3em 0 0;
