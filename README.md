@@ -16,7 +16,7 @@ Welcome to the documentation for our website! This document serves as a comprehe
 
 <h2>Overview of Project</h2>
 
-Problem Statement:
+* Problem Statement:
 
 In today's fast-paced world, homeowners often struggle to find reliable and trustworthy professionals for their home service needs. The process of searching for service providers, comparing prices, scheduling appointments, and ensuring quality can be time-consuming and overwhelming. Additionally, the lack of transparency and accountability in the home service industry leaves homeowners feeling uncertain and vulnerable.Our platform aims to solve these challenges by providing a seamless and transparent platform for homeowners to easily find, book, and engage with trusted professionals for a wide range of home services. 
 
@@ -69,30 +69,30 @@ A2Z is your one-stop destination for all your home service needs. Whether you ne
 
 * Setting up the environment in VS code 
 
-<h3> Downloading the Vs code</h3>
+*<h3> Downloading the Vs code</h3>
 
 ![Screenshot (189)](https://github.com/Anamikaghosh18/FRT-Home-Services-WEbsite/assets/166281527/47a0b4e1-9ced-45bf-b5cb-f46b3c487ef2)
 
-<h3> Setting up file</h3>
+*<h3> Setting up file</h3>
 
   
 
 ![Screenshot (190)](https://github.com/Anamikaghosh18/FRT-Home-Services-WEbsite/assets/166281527/3ed3be85-5f3a-49eb-9efb-ca8873a611fa)
 
-<h3> Creating HTML,CSS ,JS files</h3>
+*<h3> Creating HTML,CSS ,JS files</h3>
 
   
 ![Screenshot (186)](https://github.com/Anamikaghosh18/FRT-Home-Services-WEbsite/assets/166281527/24a3bbfe-9303-4a34-aaa1-6b38dcb5458d)
 
 
-<h3> Downloading the extensions</h3>
+*<h3> Downloading the extensions</h3>
 
   
 ![Screenshot (191)](https://github.com/Anamikaghosh18/FRT-Home-Services-WEbsite/assets/166281527/bec2cc9b-7d6b-4a19-a88d-81e31df5e393)
 
 <h2> Building the Q&A chatbot</h2>
   
-<h3>Searching the azure Q&A maker </h3>
+*<h3>Searching the azure Q&A maker </h3>
 
 
 ![Screenshot (221)](https://github.com/Anamikaghosh18/FRT-Home-Services-WEbsite/assets/166281527/89a6fb9d-3a99-442e-bddf-3f3e3e276406)
@@ -116,5 +116,36 @@ A2Z is your one-stop destination for all your home service needs. Whether you ne
 
 
 ![Screenshot (227)](https://github.com/Anamikaghosh18/FRT-Home-Services-WEbsite/assets/166281527/f0400340-ec41-428f-9a9d-d3ace9ea97e8)
+
+<h2>Implementation of Static web apps</h2>
+
+<h3>Creating the resource</h3>
+
+
+![Screenshot (229)](https://github.com/Anamika-ghosh/A2ZHomeServices/assets/151986418/7c905018-acd1-4538-9a65-be8e15724e14)
+
+<h3>Selecting the required things for creating CI/CD </h3>
+
+![Screenshot (230)](https://github.com/Anamika-ghosh/A2ZHomeServices/assets/151986418/af00b1b5-83dd-4a3e-b583-20e27f9dd273)
+
+<h3>reviwing the created CI/CD</h3>
+
+![Screenshot (231)](https://github.com/Anamika-ghosh/A2ZHomeServices/assets/151986418/ce927172-46a5-479a-8dbd-d658e70bf4cb)
+
+<h3>Deployement</h3>
+
+![Screenshot (232)](https://github.com/Anamika-ghosh/A2ZHomeServices/assets/151986418/1810c5fc-23a6-454d-a538-ffa6413cc43e)
+
+<h2>How this website is solving the problem</h2>
+
+Upfront Pricing: Transparent pricing for all services, eliminating hidden fees.
+Verified Reviews and Ratings: Reliable reviews from previous customers to help homeowners make informed decisions.
+Easy Booking and Scheduling: User-friendly interface for convenient appointment booking with real-time availability.
+Secure Payments: Secure online payment options for financial peace of mind.
+Customer Support: 24/7 customer support for assistance and issue resolution.
+
+<h2>Contact me</h2>
+<h3>Email id: g.anamika0101@gmail.com</h3>
+
 
 
